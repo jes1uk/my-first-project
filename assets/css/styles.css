@@ -1,10 +1,10 @@
 body {
     background-color: lightgrey;
     background-image: url("../images/background.jpg");
-    h2 {
-        color: orangered;
-    }
-    p {
-        font-weight: bold;
-    }
+}
+h2 {
+    color: orangered;
+}
+p {
+    font-weight: bold;
 }
